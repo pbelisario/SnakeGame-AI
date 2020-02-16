@@ -24,7 +24,7 @@ So the snake Vision can be represented as a bolean matrix of 8 Columns X 3 Rows.
 ## Fitness
 The Fitness equation is the following
 
-![equation] (http://www.sciweavers.org/tex2img.php?eq=%20Fitness%20%3D%5Cbegin%7Bcases%7D%20Number%20Of%20Moves%20Left%20%20%5Ctimes%20Number%20of%20Moves%20Done%20%5Ctimes%20%20%202%5E%7Bscore%7D%20%20%26%20score%20%3C%2010%20%5C%5C%20Number%20Of%20Moves%20Left%20%20%5Ctimes%20Number%20of%20Moves%20Done%20%5Ctimes%20%20%202%5E%7B10%7D%20%5Ctimes%20%28score%20-%209%29%20%26%20otherwise%5Cend%7Bcases%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%20Fitness%20%3D%5Cbegin%7Bcases%7D%20Number%20Of%20Moves%20Left%20%20%5Ctimes%20Number%20of%20Moves%20Done%20%5Ctimes%20%20%202%5E%7Bscore%7D%20%20%26%20score%20%3C%2010%20%5C%5C%20Number%20Of%20Moves%20Left%20%20%5Ctimes%20Number%20of%20Moves%20Done%20%5Ctimes%20%20%202%5E%7B10%7D%20%5Ctimes%20%28score%20-%209%29%20%26%20otherwise%5Cend%7Bcases%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 # Extra
 If you try to save a file the extension .CSV must be added and the end of the file name.
